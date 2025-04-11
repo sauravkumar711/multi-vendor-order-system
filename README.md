@@ -7,7 +7,7 @@ A Node.js-based backend system for managing a multi-vendor e-commerce platform. 
 ## Features
 
 ## 📄 API Documentation (Swagger)
-- Swagger UI: [http://localhost:3000/api-docs/#/Products/get_api_products]
+- Swagger UI: [http://localhost:3000/api-docs/]
 
 
 
